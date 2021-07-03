@@ -14,5 +14,11 @@ galaxy_info:
 
   galaxy_tags:
     - vim
+    - Ubuntu
+    - Focal
+    - development
+    - editor
+    - terminal
+    - sysadmin
 
 dependencies: []
