@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: Mick Pollard
+  role_name: vim
+  namespace: aussielunix
+  description: Install and configure vim on your system.
+  license: MIT
+  company: contojo
+  min_ansible_version: 3.5.1
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal		# 20.04
+
+  galaxy_tags:
+    - vim
+
+dependencies: []

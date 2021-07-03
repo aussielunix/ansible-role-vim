@@ -1,0 +1,12 @@
+---
+
+- name: test if vim_X is set correctly
+  assert:
+    that:
+      - vim_X is defined
+      - vim_X is iterable
+      - vim_X is number
+      - vim_X is boolean
+      - vim_X = 0
+      - vim_X in [ "a", "b" ]
+    quiet: yes
