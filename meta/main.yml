@@ -1,8 +1,7 @@
 ---
 galaxy_info:
-  author: Mick Pollard
   role_name: vim
-  namespace: aussielunix
+  author: aussielunix
   description: Install and configure vim on your system.
   license: MIT
   company: contojo
